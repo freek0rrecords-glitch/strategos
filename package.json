@@ -1,0 +1,20 @@
+{
+  "name": "strategos",
+  "version": "1.0.0",
+  "description": "Strategos — Business Intelligence Platform",
+  "main": "index.html.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "keywords": [
+    "business",
+    "intelligence",
+    "analytics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.3.1"
+  }
+}
